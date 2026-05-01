@@ -13,5 +13,8 @@ Welcome to my repository! Is jagah main apni CodeAlpha internship ke saare techn
 ## 📁 Tasks Overview
 | Task No. | Task Name | Status | Link |
 |----------|-----------|--------|------|
-| 01 | Internship Start & LinkedIn Update | ✅ Completed | [View Post](https://www.linkedin.com/feed/) |
-| 02 | First Technical Task | 🕒 Pending | - |
+| 01 | Basic Network Sniffer | ✅ Completed | [View Post](https://www.linkedin.com/feed/) |
+| 02 | Phishing Awareness Training | 🕒 Pending | - |
+| 03 | Secure Coding Review | 🕒 Pending | - |
+| 04 | Network Intrusion Detection System | 🕒 Pending | - |
+

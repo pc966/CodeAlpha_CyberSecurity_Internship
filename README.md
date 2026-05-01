@@ -2,7 +2,7 @@
 Repository for tracking and showcasing my technical tasks and projects during the Cyber Security Internship at CodeAlpha (May 2026)
 # CodeAlpha Cyber Security Internship 🛡️
 
-Welcome to my repository! Is jagah main apni CodeAlpha internship ke saare technical tasks aur projects share karunga.
+Welcome to my repository!
 
 ## 📌 Internship Details
 - **Role:** Cyber Security Intern
